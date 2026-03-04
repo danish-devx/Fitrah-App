@@ -1,0 +1,74 @@
+body{
+    background: linear-gradient(135deg, #D7EFE1, #C4E6D4);
+    font-family: 'Segoe UI', sans-serif;
+    color: #023D54;
+}
+
+.main-title{
+    color: #023D54;
+    font-size: 42px;
+}
+
+.sub-title{
+    color: #9A6735;
+    font-weight: 600;
+}
+
+
+.main-card{
+    background: #D7EFE1;
+    border-radius: 22px;
+    box-shadow: 
+        10px 10px 25px rgba(0,0,0,0.12),
+        -10px -10px 25px #ffffff;
+    border: none;
+}
+
+
+.header-row{
+    color: #023D54;
+    font-weight: 600;
+}
+
+
+.commodity{
+    font-weight: 600;
+    color: #023D54;
+}
+
+
+.neumorph-input{
+    background: #D7EFE1;
+    border: none;
+    color: #023D54;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 
+        inset 4px 4px 10px rgba(0,0,0,0.15),
+        inset -4px -4px 10px #ffffff;
+}
+
+.neumorph-input:focus{
+    outline: none;
+    box-shadow: 
+        inset 2px 2px 6px rgba(0,0,0,0.2),
+        inset -2px -2px 6px #ffffff;
+}
+
+
+.total{
+    font-weight: bold;
+    color: #9A6735;
+}
+
+
+.grand-total{
+    color: #023D54;
+    font-weight: bold;
+}
+
+
+.fa-solid{
+    color: #9A6735;
+    margin-right: 6px;
+}
