@@ -71,4 +71,12 @@ body{
 .fa-solid{
     color: #9A6735;
     margin-right: 6px;
+
+}
+
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
 }
